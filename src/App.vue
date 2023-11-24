@@ -6,6 +6,7 @@
     <Accueil />
     <Presentation />
     <Modale />
+    <Formulaire />
   </main>
   <footer class="footer">
     <Footer />
