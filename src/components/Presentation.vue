@@ -1,11 +1,14 @@
 <template>
-  <div id="me">
+  <div id="MaPresentation">
     <div class="titlePresentation">
       <h1>Ma présentation</h1>
     </div>
 
     <div class="image">
-      <img src="../assets/PhotoLeaKugler.png" alt="" />
+      <img
+        src="../assets/PhotoLeaKugler.png"
+        alt="Photographie de Léa Kugler"
+      />
     </div>
 
     <div class="Presentation">
@@ -28,7 +31,7 @@ h1 {
   color: black;
 }
 
-#me {
+#MaPresentation {
   width: 100%;
   height: auto;
   display: flex;
