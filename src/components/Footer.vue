@@ -22,7 +22,7 @@
   <div class="MAJDate">
     <p class="date_maj">
       Mise à jour du site le :
-      <time datetime="2023-21-11T18:00">21 Novembre 2023</time>
+      <time datetime="2023-24-11T18:00">24 Novembre 2023</time>
     </p>
   </div>
 </template>
