@@ -2,12 +2,12 @@
   <nav class="navbar">
     <div class="logo">
       <a href="">
-        <img src="../assets/LogoPortfolio.png" alt="" />
+        <img src="../assets/LogoPortfolio.png" alt="Logo de Léa Dev" />
       </a>
     </div>
     <div class="liensNavBar">
       <a href="#" class="liens">Accueil</a>
-      <a href="#me" class="liens">Présentation</a>
+      <a href="#MaPresentation" class="liens">Présentation</a>
       <a href="#MesCreations" class="liens">Mes créations</a>
       <a href="#Formulaire" class="liens">Formulaire de contact</a>
     </div>

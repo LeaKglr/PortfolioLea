@@ -20,9 +20,19 @@
         <p>
           Voici un lien vers mon CV :
           <a href="@/assets/CV/CurriculumVitae.html" target="_blank"
-            >ici. <img src="@/assets/CV/CV(1).png" alt="" />
-            <img src="@/assets/CV/CV(2).png" alt="" />
-            <img src="@/assets/CV/CV(3).png" alt="" />
+            >ici.
+            <img
+              src="@/assets/CV/CV(1).png"
+              alt="Image de mon CV réalisé en HTML et CSS"
+            />
+            <img
+              src="@/assets/CV/CV(2).png"
+              alt="Image de mon CV réalisé en HTML et CSS"
+            />
+            <img
+              src="@/assets/CV/CV(3).png"
+              alt="Image de mon CV réalisé en HTML et CSS"
+            />
           </a>
         </p>
       </div>

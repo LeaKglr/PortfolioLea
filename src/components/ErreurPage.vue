@@ -5,7 +5,7 @@
       Oops, we couldn't find that page. Try going
       <router-link to="/">Home</router-link>
     </p>
-    <img src="@/assets/erreur404.png" alt="" />
+    <img src="@/assets/erreur404.png" alt="Image d'erreur 404" />
   </div>
 </template>
 

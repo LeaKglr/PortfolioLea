@@ -24,7 +24,7 @@
             target="_blank"
             ><img
               src="@/assets/EspaceCommentaires/dynamiser un espace commentaire (1).png"
-              alt=""
+              alt="Image de ma création Dynamiser un espace commentaire"
           /></a>
         </p>
         <p>

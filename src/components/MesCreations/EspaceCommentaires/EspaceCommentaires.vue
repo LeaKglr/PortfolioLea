@@ -5,7 +5,10 @@
   <div class="containerModale">
     <button v-on:click="toggleModale" class="bouton">
       <h1>Dynamiser un espace commentaire</h1>
-      <img src="@/assets/EspaceCommentaires/Ecrire commentaires.png" alt="" />
+      <img
+        src="@/assets/EspaceCommentaires/Ecrire commentaires.png"
+        alt="Image de ma création Espace Commentaires"
+      />
     </button>
   </div>
 </template>

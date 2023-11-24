@@ -30,7 +30,10 @@
       </div>
     </div>
     <div class="image">
-      <img src="../assets/PhotoLeaKugler.png" alt="" />
+      <img
+        src="../assets/PhotoLeaKugler.png"
+        alt="Photographie de Léa Kugler"
+      />
     </div>
   </div>
 </template>

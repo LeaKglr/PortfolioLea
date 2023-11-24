@@ -24,20 +24,23 @@
           >
             <img
               src="@/assets/CahierDesCharges/sommaire cahier des charges.png"
-              alt=""
+              alt="Image de ma création du cahier des charges de la maison brousseau"
             />
             <img
               src="@/assets/CahierDesCharges/Sommaire cahier des charges(2).png"
-              alt=""
+              alt="Image de ma création du cahier des charges de la maison brousseau"
             />
-            <img src="@/assets/CahierDesCharges/Maison Broussaud.png" alt="" />
+            <img
+              src="@/assets/CahierDesCharges/Maison Broussaud.png"
+              alt="Image de ma création du cahier des charges de la maison brousseau"
+            />
             <img
               src="@/assets/CahierDesCharges/Maison broussaud(2).png"
-              alt=""
+              alt="Image de ma création du cahier des charges de la maison brousseau"
             />
             <img
               src="@/assets/CahierDesCharges/maison brousseau(3).png"
-              alt=""
+              alt="Image de ma création du cahier des charges de la maison brousseau"
             />
           </a>
         </p>

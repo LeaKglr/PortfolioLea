@@ -4,7 +4,10 @@
     <div>
       <button v-on:click="toggleModale" class="bouton">
         <h1>Cahier des Charges</h1>
-        <img src="@/assets/CahierDesCharges/Cahierdescharges.png" alt="" />
+        <img
+          src="@/assets/CahierDesCharges/Cahierdescharges.png"
+          alt="Extrait de ma création cahier des charges"
+        />
       </button>
     </div>
   </div>

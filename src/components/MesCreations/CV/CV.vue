@@ -4,7 +4,10 @@
     <div>
       <button v-on:click="toggleModale" class="bouton">
         <h1>Curriculum Vitae</h1>
-        <img src="@/assets/CV/CV.png" alt="" />
+        <img
+          src="@/assets/CV/CV.png"
+          alt="Image de mon CV réalisé en HTML et CSS"
+        />
       </button>
     </div>
   </div>
