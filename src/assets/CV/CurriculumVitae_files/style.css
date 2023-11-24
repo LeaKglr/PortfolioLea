@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,200;0,400;0,700;1,400&display=swap');
+
+body {
+    width: 75%;
+    height: auto;
+    max-width: 1160px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    border-right: solid black;
+}
+
+.all {
+    width: 100%;
+    height: 100%;
+    background-color: #782221;
+    justify-content: center;
+}
+
+/*Début du bloc "header"*/
+
+.header_presentation_me {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5%;
+}
+
+#NomPrénom {
+    padding-left: 25%;
+}
+
+.header_presentation_me_entitled {
+    color: white;
+    font-family: Raleway;
+    font-size: 150%;
+}
+
+.header_contact {
+    width: 100%;
+    background-color: #2c1d27;
+}
+
+.header_contact_address {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: Raleway;
+}
+
+a:link{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.header_presentation_me_figure {
+    width: 150px;
+    height: 150px;
+}
+
+#Léa {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 50%;
+    box-shadow: 0 0 30px #dbc2a4;
+    cursor: zoom-in;
+}
+
+/*Fin du bloc header*/
+
+/*Début du bloc main*/
+
+main {
+    background-color: #782221;
+    display: flex;
+    flex-direction: row;
+}
+
+h3 {
+    background-color: #dbc2a4;
+    font-family: lato;
+    padding: 1% 0 1% 1%;
+}
+
+/*Début du bloc pro*/
+
+.pro {
+    background-color: white;
+    padding: 0 2.5% 0 5%;
+}
+
+.bordercolor1:hover {
+    border-left: thick solid #782221;
+}
+
+.pro_experience {
+    font-family: Raleway;
+}
+
+.pro_formation {
+    font-family: Raleway;
+}
+
+.pro_skills_list {
+    font-family: Raleway;
+}
+
+/*Début du bloc perso*/
+
+.titre_perso {
+    padding-left: 10%;
+}
+
+.perso {
+    width: 35%;
+}
+
+.perso_searchjob_titre {
+    font-family: lato;
+    padding-right: 15%;
+}
+
+.perso_searchjob_propos {
+    text-indent: 15%;
+    text-align: justify;
+    margin: 0 15% 0 5%;
+    color: white;
+    font-family: Raleway;
+}
+
+.perso_languages_list {
+    color: white;
+    font-family: Raleway;
+}
+
+.interest_list {
+    color: white;
+    font-family: Raleway;
+}
+
+/*Fin du bloc main*/
+
+/*Début du bloc footer*/
+
+.social_share {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 2%;
+}
+
+.social_network_share {
+    width: 5%;
+    height: 5%;
+}
+
+.social_share_link:hover {
+    opacity: 0.75;
+}
+
+.social_share_icon {
+    width: 100%;
+    height: 100%;
+}
+
+.by {
+    color: white;
+    font-size: 5%;
+    display: flex;
+    justify-content: center;
+    font-family: Raleway;
+}
+
+.date {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: Raleway;
+}
