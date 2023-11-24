@@ -7,9 +7,9 @@
     </div>
     <div class="liensNavBar">
       <a href="#" class="liens">Accueil</a>
-      <a href="#" class="liens">Présentation</a>
-      <a href="#" class="liens">Mes créations</a>
-      <a href="#" class="liens">Formulaire de contact</a>
+      <a href="#me" class="liens">Présentation</a>
+      <a href="#MesCreations" class="liens">Mes créations</a>
+      <a href="#Formulaire" class="liens">Formulaire de contact</a>
     </div>
   </nav>
 </template>

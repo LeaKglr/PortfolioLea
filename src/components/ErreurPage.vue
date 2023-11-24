@@ -1,5 +1,12 @@
 <template>
-  <div></div>
+  <div class="not-found-404">
+    <h1>Not Found</h1>
+    <p>
+      Oops, we couldn't find that page. Try going
+      <router-link to="/">Home</router-link>
+    </p>
+    <img src="@/assets/erreur404.png" alt="" />
+  </div>
 </template>
 
 <script>
